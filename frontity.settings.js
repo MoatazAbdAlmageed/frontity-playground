@@ -14,8 +14,7 @@ const settings = {
         theme: {
           menu: [
             ["Home", "/"],
-            ["Announcement", "/category/announcement/"],
-            ["Technologies", "/category/technologies/"],
+            ["AIO", "/category/aio/"],
           ],
           featured: {
             showOnList: false,
@@ -28,7 +27,8 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "http://localhost/frontity-api/index.php/wp-json",
+          api:
+            "https://public-api.wordpress.com/wp/v2/sites/moatazworld.wordpress.com/",
         },
       },
     },
