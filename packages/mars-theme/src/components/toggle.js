@@ -20,6 +20,7 @@ export default connect(Toggle);
 
 const Container = styled.div`
   display: flex;
+  margin: 1.5em 0;
 `;
 
 const ButtonsStyled = styled.button`

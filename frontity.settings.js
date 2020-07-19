@@ -3,8 +3,9 @@ const settings = {
   state: {
     frontity: {
       url: "http://localhost/frontity-api",
-      title: "Test Frontity Blog",
-      description: "WordPress installation for Frontity development",
+      title: "MoatazWorld",
+      description:
+        "a web developer from Egypt. I spend my days with my hands in many different areas of web development from back end programming (PHP / Laravel) to front end engineering (HTML, CSS, and Javascript/ReactJs).",
     },
   },
   packages: [
