@@ -22,9 +22,7 @@ const settings = {
           // the top-level navigation labels and links
           menu: [
             ["Home", "/"],
-            ["Portfolio", "/portfolio"],
-            ["About", "/about"],
-            ["Contact", "/contact"],
+            ["AIO", "/aio"],
           ],
           // the social links
           socialLinks: [
